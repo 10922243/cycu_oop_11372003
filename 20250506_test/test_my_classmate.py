@@ -1,5 +1,5 @@
 
-from cycu11372003.ebus_taipei import taipei_route_list, taipei_route_info
+from cycu25305.ebus_taipei import taipei_route_list, taipei_route_info
 
 if __name__ == "__main__":
     # Initialize and process route data
